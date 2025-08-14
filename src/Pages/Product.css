@@ -1,0 +1,14 @@
+.Image {
+  background-image: url('./Image.jpg'); 
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  min-height: 100vh;  
+  padding: 40px 20px;
+}
+
+.card1 {
+  border-radius: 5px;
+  margin-left: 30px;
+  padding-top: 20px;
+}

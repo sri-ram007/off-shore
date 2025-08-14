@@ -1,5 +1,5 @@
- // src/Pages/ProductDetail.js
-import React from 'react';
+
+
 import { useParams, Link } from 'react-router-dom';
 import { Nav,Navbar,Container, Card, Button } from 'react-bootstrap';
 import './Product.css'; 

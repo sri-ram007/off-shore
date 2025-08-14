@@ -1,5 +1,4 @@
 // src/Pages/Home.js
-import React from 'react';
 import { Container, Nav, Navbar, Col, Image, Card, Button, Row } from 'react-bootstrap';
 import { Link, useNavigate } from 'react-router-dom';
 import WhiteImg from './White.jpg'; 
